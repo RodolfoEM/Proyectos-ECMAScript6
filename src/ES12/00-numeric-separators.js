@@ -1,0 +1,2 @@
+const value = 100_000_000_000; // Esto permite leer mejor un número muy grande, sin embargo no afecta nada en el uso que se le quiera dar
+console.log(value); // 100000000000 (aquí se muestra que no afecta en nada)

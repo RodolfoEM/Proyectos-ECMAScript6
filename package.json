@@ -12,8 +12,12 @@
   ],
   "author": "Rodolfo Espinosa <mctot_2008@hotmail.com>",
   "license": "MIT",
+<<<<<<< HEAD
   "type": "module",
   "dependencies": {
     "node-fetch": "^3.3.0"
   }
+=======
+  "type": "module"
+>>>>>>> 31b1cedc6a9b9da7f10d3567603c148dd0ba2d72
 }
